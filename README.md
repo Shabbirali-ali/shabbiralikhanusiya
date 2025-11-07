@@ -72,34 +72,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabbiralikhanusiya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabbiralikhanusiya&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbiralikhanusiya&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-</p>
-
----
-
-### 🧩 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/shabbiralikhanusiya/devsecops-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabbiralikhanusiya&repo=devsecops-toolkit&theme=radical" />
-  </a>
-  <a href="https://github.com/shabbiralikhanusiya/azure-pipeline-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shabbiralikhanusiya&repo=azure-pipeline-automation&theme=radical" />
-  </a>
-</p>
-
----
 
 ### 💡 Fun Fact
 > “In DevSecOps, automation is power, but security is wisdom.” 🔒⚡
